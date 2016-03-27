@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">HowToApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_pizza">How To Make Pizza</string>
+    <string name="ingredients">1 pound pizza dough, store-bought or homemade\n1/2 to 1 cup sauce: tomato sauce, white sauce, or other spread\n2 to 3 cups other toppings: sautéed onions, sautéed mushrooms, pepperoni, cooked sausage, cooked bacon, diced peppers, leftover veggies, or any other favorite toppings\n1 to 2 cups (8 to 16 ounces) cheese, shredded or sliced: mozzarella, Monterey Jack, provolone, fontina, or any other favorite.\nCornmeal or flour (optional)\n</string>
+    <string name="Equipment">Pizza stone or baking sheet\nPizza peel or baking sheet\nParchment paper (optional)\n</string>
+    <string name="Instructions">
+        1. Heat the oven to 550oF or higher: Do not be afraid to really crank the heat up to its highest setting. The high heat will help make a crunchier and more flavorful crust. Let the oven heat for at least half an hour before baking your pizzas. If you have a baking stone, place it in the lower-middle of your oven.
+        \n\n2. Divide the dough in half: One pound of dough makes two 10-inch pizzas. Slice the dough in half and cover one half with an upside-down bowl or a clean kitchen towel while you prepare the first pizza.
+        \n\n3. Roll out the dough:
+        \n\nMethod #1: Pizza Baked on Parchment: Tear off a large piece of parchment paper roughly 12 inches wide. Working with one piece of the dough at a time, form it into a large disk with your hands and lay it on the parchment paper. Use your hands or a rolling pin to flatten the dough until it is 1/4-inch thick or less. If the dough starts to shrink back, let it rest for 5 minutes and then continue rolling.
+        \n\nMethod #2: Pizza with Cornmeal or Flour and a Baking Stone: Sprinkle a handful of cornmeal or flour on a pizza peel or the back of a baking sheet. Working with one piece of the dough at a time, form it into a large disk with your hands and lay it on the peel. Use your hands or a rolling pin to flatten the dough until it is 1/4-inch thick or less. Shake the peel or baking sheet frequently as you shape to make sure the dough is not sticking. If the dough starts to shrink back, let it rest for 5 minutes and then continue rolling.
+        \n\nMethod #3: Pizza Baked on a Baking Sheet: Brush a thin film of olive oil on a baking sheet. Working with one piece of the dough at a time, form it into a large disk with your hands and lay it on the baking sheet. Use your hands or a rolling pin to flatten the dough until it is 1/4-inch thick or less. If the dough starts to shrink back, let it rest for 5 minutes and then continue rolling.
+        \n\n4. Top the pizza: Spoon a few tablespoons of sauce into the center of the pizza and use the back of a spoon to spread it out to the edges. Pile on all of your toppings.
+        \n\n5. Bake the pizza: Using a pizza peel or the back side of a baking sheet, slide your pizza (with the parchment or with the cornmeal) onto the baking stone. If you do not have a baking stone, bake the pizza right on the baking sheet. Cook for 5 minutes, then rotate the pizza. Slide the parchment out from under the pizza, if used. Bake for another 3 to 5 minutes, until the crust is golden-brown and the cheese looks toasty.
+        \n\n6. Slice and serve: Let the pizza cool slightly on a cooling rack, just until you are able to handle it. Slice it into pieces and serve.
+    </string>
+
+
+    <string name="title_activity_how_to_keep_body_fit">How To Keep Body Fit</string>
+    <string name="step1">\n1.\nEat good healthy foods! Carbohydrates are especially healthy for you and keep your body fit. No, do not overload your plate with strawberries, bananas, mangoes and grapes. Just eat a kiwi or papaya after breakfast or lunch and grapes or mango after dinner. Write it down in your schedule: eat some carbohydrates and be proud of yourself.</string>
+    <string name="step2">\n2.\nDo not skip your meals! No matter it is breakfast, lunch or dinner, always have your meals and do not skip them. Your body gets used to the meals and you should follow along. One skip of breakfast, lunch or dinner you might as well say goodbye to keeping your body healthy. The digestion system will get ruined.</string>
+    <string name="step3">\n3.\nSay no to junk. Avoid eating your regular junk food which naturally consists of: packets and packets of crisps, sugary food, coca-cola (fizzy drink), etc. Try eating a bowl of salad instead, or eating prawns instead of crisps. And for heavens sake, drink water instead of coke! Water and milk help you be fit and instead, you drink something so unhealthy that it takes away the calories of your bones and sooner of later, you will not be able to move, because your bones will be too weak.</string>
+    <string name="step4">\n4.\nVisit your dietitian. Always useful. He can snap his fingers, get some tablets for you and even make you a food schedule to eat and drink. Follow it very carefully. If it says eat a lot of carbohydrates (as it should) and avoid drinking fizzy drinks: follow it oh so carefully.</string>
+    <string name="step5">\n5.\nWherever you go, have a small packet of healthy snacks eg. a pack of peanuts. They are very useful and can be carried around long journeys. Or maybe eat a banana on the way out. No, it will not look lame. It will be helping you with your body and with your fitness. Do not avoid this step.</string>
+    <string name="step6">\n6.\nDo not mix and match! Once you start eating carbohydrates, try your best to continue eating them! You can not have carbohydrates for breakfast and then left-over pizza with hot sauce for dinner. Come on, live a little! The food pyramid is loaded with stuff we need to eat and the carbohydrates section is the fattest. Follow it, eat it, smile. You will be glad you did.</string>
+
+
+    <string name="title_activity_how_to_controll_agner">How To Control Agner</string>
+
+    <string name="anger_step1">\n1.\nTake a break as soon as you recognize that you are angry. You can take a break by stopping what you are doing, getting away from whatever is irritating you, and//or just taking a breather. Getting away from whatever is upsetting you will make it infinitely easier to calm down.
+        \n\n   # Remember that you do not have to respond to a situation immediately. You can count to 10 or even say \“I will think about it and get back to you\” to give yourself additional time to cool down as necessary.
+        \n\n   # If you are angry at work, go to a room or step outside for a moment. If you are driving to work, consider sitting in your car so that you are in a space you own.
+    </string>
+
+    <string name="anger_step2">\n2.\nLet yourself feel angry. It is perfectly normal to experience emotions such as anger. Allowing yourself a little time and space to feel angry may help you accept the anger and move on. Once you move on, you can stop returning to the anger and reliving the reason that you were angry.
+        \n\n   # To allow yourself to experience your anger, think about locating it in your body. Do you feel anger in your stomach? In your clenched fists? Find your anger, let it be, then let it go.
+    </string>
+
+    <string name="anger_step3">\n3.\nBreathe deeply. If your heart hammers with rage, slow it down by controlling your breathing. Deep breathing is one of the most important steps in meditation, which can contribute to controlling emotions. Even if you do not fully \“meditate,\” using deep breathing techniques can offer similar benefits.
+        \n\n   # Count to three as you inhale, hold the breath in your lungs for three more seconds, and count to three again as you exhale. Focus only on the numbers as you do this.
+        \n\n   # Be sure that each breath in fully fills your lungs, causing your chest and belly to expand. Exhale fully each time, and pause between the exhale and the next inhale.
+        \n\n   # Keep breathing until you feel that you have regained control
+    </string>
+    <string name="anger_step4">\n4.\nVisualize a \"happy place.\" If you are still having a difficult time calming down, imagine yourself in a scene you find incredibly relaxing. It could be your childhood backyard, a quiet forest, a solitary island—any place that makes you feel at home and peaceful. Focus on imagining every detail of this place: the light, the noises, the temperature, the weather, the smells. Keep dwelling on your happy place until you feel completely immersed in it, and hang out there for a few minutes or until you feel calm.
+    </string>
+    <string name="anger_step5">\n5.\nPractice positive self-talk. Changing the way that you think about something from negative to positive (known as \“cognitive restructuring\”) can help you deal with your anger in a healthy way. After you have given yourself a moment to calm down, \"discuss\" the situation with yourself in positive and relieving terms.
+        \n\n   # For example, if you experience road rage, you could try turning \“That idiot almost killed me! I want to kill him!\” to \"That guy almost sideswiped me, but maybe he was experiencing an emergency and I will probably never have to see him again. I feel lucky that I am alive and my car is unscratched. I am fortunate that I can still drive. I can continue to be calm and focused when I get back on the road.\"
+    </string>
+    <string name="anger_step6">\n6.\nAsk for the support of someone you trust. Sometimes sharing your concerns with a close friend or confidant might help you vent your anger. Clearly express what you want from the other person. If you just want a sounding board, state at the beginning that you do not want help or advice, just sympathy. If you are looking for a solution, let the other person know.
+        \n\n   # Set a time limit. Give yourself a set amount of time to vent about what is upsetting you, and stick to it - when time is up, your rant is over. This will help you move on instead of dwelling on the situation endlessly.
+    </string>
+    <string name="anger_step7">\n7.\nTry to see some humor in what angered you. After you have calmed down and established that you are ready to get over the incident, try to see the lighter side. Casting the incident in a humorous light can actually change the chemical response in your body from anger to humor.
+        \n\n   # For example, if someone runs you off the road in your car, you might think about how silly it is that they might get where they are going 15 seconds faster by not yielding to you. You can have a good chuckle about how their priorities are out of order and move on with your life.
+    </string>
+
+
+    <string name="title_activity_how_to_speak_english">How To Speak English</string>
+    <string name="rule1">This rule might sound strange to many ESL students, but it is one of the most important rules. If you want to pass examinations, then study grammar. However, if you want to become fluent in English, then you should try to learn English without studying the grammar.
+        \nStudying grammar will only slow you down and confuse you. You will think about the rules when creating sentences instead of naturally saying a sentence like a native. Remember that only a small fraction of English speakers know more than 20% of all the grammar rules. Many ESL students know more grammar than native speakers.
+        \n
+    </string>
+
+
+    <string name="rule2">Many students learn vocabulary and try to put many words together to create a proper sentence. It amazes me how many words some of my students know, but they cannot create a proper sentence. The reason is because they did not study phrases. When children learn a language, they learn both words and phrases together. Likewise, you need to study and learn phrases.
+        \nIf you know 1000 words, you might not be able to say one correct sentence. But if you know 1 phrase, you can make hundreds of correct sentences. If you know 100 phrases, you will be surprised at how many correct sentences you will be able to say. Finally, when you know only a 1000 phrases, you will be almost a fluent English speaker.
+        \nDo not translate
+        \nWhen you want to create an English sentence, do not translate the words from your Mother tongue. The order of words is probably completely different and you will be both slow and incorrect by doing this. Instead, learn phrases and sentences so you do not have to think about the words you are saying. It should be automatic.
+        \nAnother problem with translating is that you will be trying to incorporate grammar rules that you have learned. Translating and thinking about the grammar to create English sentences is incorrect and should be avoided.
+    </string>
+
+    <string name="rule3">Reading, listening, and speaking are the most important aspects of any language. The same is true for English. However, speaking is the only requirement to be fluent. It is normal for babies and children to learn speaking first, become fluent, then start reading, then writing. So the natural order is listening, speaking, reading, then writing.
+        \n\nFirst Problem
+        \nIs not it strange that schools across the world teach reading first, then writing, then listening, and finally speaking? Although it is different, the main reason is because when you learn a second language, you need to read material to understand and learn it. So even though the natural order is listening, speaking, reading, then writing, the order for ESL students is reading, listening, speaking, then writing.
+        \n\nSecond Problem
+        \nThe reason many people can read and listen is because that is all they practice. But in order to speak English fluently, you need to practice speaking. Do not stop at the listening portion, and when you study, do not just listen. Speak out loud the material you are listening to and practice what you hear. Practice speaking out loud until your mouth and brain can do it without any effort. By doing so, you will be able to speak English fluently.
+
+    </string>
+
+    <string name="rule4">Being able to speak a language is not related to how smart you are. Anyone can learn how to speak any language. This is a proven fact by everyone in the world. Everyone can speak at least one language. Whether you are intelligent, or lacking some brain power, you are able to speak one language.
+        \nThis was achieved by being around that language at all times. In your country, you hear and speak your language constantly. You will notice that many people who are good English speakers are the ones who studied in an English speaking school. They can speak English not because they went to an English speaking school, but because they had an environment where they can be around English speaking people constantly.
+        \nThere are also some people who study abroad and learn very little. That is because they went to an English speaking school, but found friends from their own country and did not practice English.
+        \nYou do not have to go anywhere to become a fluent English speaker. You only need to surround yourself with English. You can do this by making rules with your existing friends that you will only speak English. You can also carry around an audio player and constantly listen to English sentences. As you can see, you can achieve results by changing what your surroundings are. Submerge yourself in English and you will learn several times faster.
+    </string>
+
+    <string name="rule5">A common phrase that is incorrect is, \"Practice makes perfect.\" This is far from the truth. Practice only makes what you are practicing permanent. If you practice the incorrect sentence, you will have perfected saying the sentence incorrectly. Therefore, it is important that you study material that is commonly used by most people.
+        \nAnother problem is that many students study the news. However, the language they speak is more formal and the content they use is more political and not used in regular life. It is important to understand what they are saying, but this is more of an advanced lesson that should be studied after learning the fundamental basics of English.
+        \nStudying English with a friend who is not a native English speaker is both good and bad. You should be aware of the pros and cons of speaking with a non native speaking friend. Practicing with a non native person will give you practice. You can also motivate each other and point out basic mistakes. But you might pick up bad habits from one another if you are not sure about what are correct and incorrect sentences. So use these practice times as a time period to practice the correct material you studied. Not to learn how to say a sentence.
+        \nIn short, study English material that you can trust, that is commonly used, and that is correct.
+    </string>
+
+
+    <string name="title_activity_how_to_be_better_student">How To Be Better Student</string>
+    <string name="rules_of_better_student">
+        \n * Be organized. Write down the dates your assignments are due and when you will have tests on a calendar or other place where you will be reminded often of your deadlines.
+        \n\n * Turn your homework in on time.
+        \n\n * Get a good night\’s sleep before tests.
+        \n\n * After you have studied by yourself, studying with a classmate or group can help you better understand hard concepts. Quiz each other.
+        \n\n * Procrastination is your enemy. Avoid it.
+        \n\n * Study for a set amount of time each weekday.
+        \n\n * Take notes in class and from your textbooks on the most important lesson points. You can also make flash cards to remind yourself of key concepts.
+        \n\n * Use any study guides or hints your teacher has given you.
+        \n\n * Have a positive attitude. Complaining will only make learning harder.
+        \n\n * Pray for help. The Lord will help you if you do your part.
+        \n\n * Exercise. A healthy body will help you be more alert and awake to study.
+        \n\n * If you are having trouble understanding something, ask the teacher or one of your parents for help.
+        \n\n * Read. Even when it is not an assignment, reading good books will increase your comprehension and vocabulary.
+        \n\n * Eat breakfast. You will need brain food throughout the day.
+        \n\n * Study somewhere you can concentrate. Loud music or a lot of people around you can be distracting.
+    </string>
+
+</resources>

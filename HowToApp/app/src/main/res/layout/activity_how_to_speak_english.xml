@@ -1,0 +1,108 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.nishikanto.howtoapp.Pizza"
+    android:background="#2196F3">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#fff"
+            android:textStyle="italic"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="5 Speaking Rules You Need To Know"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Don't study grammar too much"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule1"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Learn and study phrases"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule2"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Reading and Listening is NOT enough. Practice Speaking what you hear!"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule3"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Submerge yourself"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule4"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="5. Study correct material"
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule5"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nCollected From : www.talkenglish.com"/>
+
+
+    </LinearLayout>
+</ScrollView>

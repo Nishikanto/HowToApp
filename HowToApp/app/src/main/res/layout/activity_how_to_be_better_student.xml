@@ -1,0 +1,56 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.nishikanto.howtoapp.Pizza"
+    android:background="#009688">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/student"/>
+
+        <TextView
+            android:textColor="#fff"
+            android:textStyle="italic"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="School, homework, and studying. You probably already know a lot about these three things, but you can always use a few good tips on becoming a better student. Here are some from the youth in the Yokota Military Branch, Honshu Japan Military District, on how to study effectively."
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rules_of_better_student"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="\nFind out what kind of learner you are. Some people learn better when they listen, some when they read or see things, and some when they write things down. Discover a study method, or a combination of methods, that works best for your learning style."
+            android:textSize="25dp" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nCollected From : www.lds.org"
+            />
+
+
+
+    </LinearLayout>
+</ScrollView>

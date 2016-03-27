@@ -1,0 +1,150 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.nishikanto.howtoapp.Pizza"
+    android:background="#607D8B">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="How To Make Pizza at Home"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Makes two 10-inch pizzas\n"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="What You Need\n"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Ingredients"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ingredients"
+        />
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Equipment"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Equipment"
+            />
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Instructions"/>
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Instructions"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza1"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza2"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza4"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza5"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza6"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pizza7"/>
+
+
+        <TextView
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nYour Pizza is ready, enjoy :-)"
+            />
+
+        <TextView
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nCollected From : www.thekitchn.com"
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
